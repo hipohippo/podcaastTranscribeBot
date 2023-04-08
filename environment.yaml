@@ -1,0 +1,10 @@
+name: deeplearning
+dependencies:
+  - python>=3.8
+  - pytorch
+  - bs4
+  - requests
+  - pip
+    - whisper
+    - ffmpeg
+    - opencc
